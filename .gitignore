@@ -1,0 +1,7 @@
+# OSX System Files
+
+*.DS_Store
+
+# NodeJS
+
+node_modules/
